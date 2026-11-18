@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Management System — Complete Project Documentation
 
-> A full-stack web application built with **PHP 8+**, **MySQL (MySQLi)**, **HTML5 / CSS3 / JavaScript**, and **PHPMailer** for end-to-end hotel room discovery, date-based availability checking, online reservations with email confirmation tickets, an interactive hotel assistant chatbot, a full-featured Admin Panel, and an automatic database backup & self-recovery engine.
+> A PHP web application built with **PHP 8+**, **MySQL (MySQLi)**, **HTML5 / CSS3 / JavaScript**, and **PHPMailer** for end-to-end hotel room discovery, date-based availability checking, online reservations with email confirmation tickets, an interactive hotel assistant chatbot, a full-featured Admin Panel, and an automatic database backup & self-recovery engine.
 
 ---
 
