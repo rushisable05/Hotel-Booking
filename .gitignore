@@ -1,0 +1,20 @@
+# Environment secrets
+.env
+
+# Composer dependencies (install via `composer install`)
+vendor/
+
+# Local database backups (contain live user/booking data)
+database/backups/*.sql
+database/backups/*.tmp
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
