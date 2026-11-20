@@ -1,6 +1,6 @@
 <?php
+require_once "includes/auth.php";
 require_once "config/database.php";
-session_start();
 
 $rooms = [];
 $message = "";

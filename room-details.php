@@ -1,7 +1,7 @@
 <?php
 
+require_once "includes/auth.php";
 require_once "config/database.php";
-session_start();
 
 if(!isset($_GET["id"]) || !is_numeric($_GET["id"])){
     header("Location: rooms.php");
